@@ -1,0 +1,11 @@
+Assessment Name,Description,URL,Remote Testing Support,Adaptive/IRT Support,Duration,Test Type
+Java Developer Test,Assess Java skills with real-world coding problems and business scenario questions.,https://www.shl.com/products/java-developer-test,Yes,Yes,40 min,Coding
+Python Developer Assessment,"Evaluate proficiency in Python programming with emphasis on syntax, libraries, and logic.",https://www.shl.com/products/python-developer-assessment,Yes,No,45 min,Coding
+Data Analyst Cognitive Test,Cognitive test for evaluating analytical thinking and interpretation for analyst roles.,https://www.shl.com/products/data-analyst-cognitive-test,Yes,Yes,30 min,Cognitive
+Full Stack Developer Test,"Comprehensive test covering frontend, backend, and logic for full-stack developers.",https://www.shl.com/products/full-stack-developer-test,Yes,No,60 min,Coding
+Communication Skills Test,"Test verbal communication, listening skills and collaborative ability in a business environment.",https://www.shl.com/products/communication-skills-test,Yes,Yes,25 min,Communication
+Problem Solving and Logic Test,"Check candidate's problem solving, logical reasoning, and decision-making speed.",https://www.shl.com/products/problem-solving-test,Yes,Yes,35 min,Cognitive
+SQL and Database Test,"Test SQL queries, data modeling, normalization, and database concepts.",https://www.shl.com/products/sql-database-test,Yes,No,30 min,Database
+Business Analyst Assessment,"Assessment for analyzing, interpreting, and presenting business data with clarity.",https://www.shl.com/products/business-analyst-assessment,Yes,No,40 min,Analytical
+Personality and Culture Fit Test,Understand a candidate’s personality fit and behavior in different company cultures.,https://www.shl.com/products/personality-culture-fit-test,Yes,Yes,20 min,Personality
+Cognitive Ability Test,"General mental ability test including numeric, verbal, and abstract reasoning.",https://www.shl.com/products/cognitive-ability-test,Yes,Yes,30 min,Cognitive
